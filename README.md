@@ -17,7 +17,7 @@ PyQt5
 pynput
 
 # Running it:
-Clone the repository using git clone https://github.com/your-username/mouse-master.git
+Clone the repository using git clone https://github.com/alby13/mouse-clickz.git
 Install the required packages using pip install -r requirements.txt (don't exist yet!)
 Run the program using python mouse_master.py
 
