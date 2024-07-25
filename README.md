@@ -30,7 +30,7 @@ pynput
 
 Clone the repository using git clone https://github.com/alby13/mouse-clickz.git
 Install the required packages using pip install -r requirements.txt
-Run the program using python mouse_master.py
+Run the program using python mouse_clickz.py
 
 I recommend running it in Command Prompt. This program was designed for Windows 11, but should work on anything.
 
