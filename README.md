@@ -46,8 +46,8 @@ PyQt5:
 License: GPL v3 (General Public License version 3)
 License Text: GPL v3 License Text
 Permissive: No
-Commercial Use: Yes, but with restrictions (see below)
-Distribution: Yes, but with restrictions (see below)
+Commercial Use: Yes, but with restrictions
+Distribution: Yes, but with restrictions
 Note: The GPL v3 license requires that any modifications to the code be made available under the same license, and that the original copyright notice be preserved.
 
 pynput:
