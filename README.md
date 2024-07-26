@@ -34,6 +34,9 @@ Run the program using python mouse_clickz.py
 
 I recommend running it in Command Prompt. This program was designed for Windows 11, but should work on anything.
 
+Windows version closes to hidden taskbar icons and then right clicking on the program there can close it.
+Linux Version has this function removed to allow it to close like normal, closing the window.
+
 # Usage:
 
 Run the program and click on the system tray icon to view the current click counts
