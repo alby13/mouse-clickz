@@ -33,6 +33,11 @@ Install the required packages using pip install -r requirements.txt
 Run the program using python mouse_clickz.py
 
 I recommend running it in Command Prompt. This program was designed for Windows 11, but should work on anything.
+If you would like to run the program without Command Prompt showing and when you close the program from the window it minimizes to the task bar icons you can create a batch (.bat) file with the following and double click it to launch:
+
+<code>@echo off
+cd /d "%~dp0"
+start "" pythonw click_counter.py</code>
 
 Windows version closes to hidden taskbar icons and then right clicking on the program there can close it.
 Linux Version has this function removed to allow it to close like normal, closing the window.
