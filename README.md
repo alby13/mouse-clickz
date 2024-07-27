@@ -39,7 +39,7 @@ If you would like to run the program without Command Prompt showing and when you
 cd /d "%~dp0"
 start "" pythonw click_counter.py</code>
 
-Windows version closes to hidden taskbar icons and then right clicking on the program there can close it.
+Windows version closes to tray taskbar icons (hidden if your system is set to) and then right clicking on the program there can close it.
 Linux Version has this function removed to allow it to close like normal, closing the window.
 
 # Usage:
