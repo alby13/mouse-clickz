@@ -7,6 +7,8 @@ mouse.clickz is a python program that tracks and counts mouse clicks, scrolls, a
 
 A simple python program that tracks and counts mouse clicks, scrolls, and movements.
 
+The program is designed to keep track of the mouse and save a json file in the directory of the program so it can load all of the tracked stats and keep a running timer of how long the program has ran for alltogether.
+
 # Features:
 Tracks and counts mouse clicks, scrolls, and movements
 
