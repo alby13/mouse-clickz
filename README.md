@@ -14,7 +14,7 @@ Displays current click counts in a graphical user interface
 
 Saves click counts to a counter file every hour and when the program is closed
 
-Provides a system tray icon for easy access to the program
+Optional Windows version Provides a system tray icon for easy access to the program
 
 
 # Requirements:
