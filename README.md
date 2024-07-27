@@ -58,20 +58,12 @@ This program is provided for individuals personal use and educational use only.
 PyQt5:
 
 License: GPL v3 (General Public License version 3)
-License Text: GPL v3 License Text
-Permissive: No
-Commercial Use: Yes, but with restrictions
-Distribution: Yes, but with restrictions
-Note: The GPL v3 license requires that any modifications to the code be made available under the same license, and that the original copyright notice be preserved.
+https://www.gnu.org/licenses/gpl-3.0.en.html
 
 pynput:
 
 License: MIT License
-License Text: MIT License Text
-Permissive: Yes
-Commercial Use: Yes
-Distribution: Yes
-Note: The MIT License is a permissive license that allows for free use, modification, and distribution of the software.
+https://opensource.org/license/mit
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
