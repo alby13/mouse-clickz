@@ -53,6 +53,8 @@ Click on the "Quit" button to close the program and save the click counts
 
 # License:
 
+This program is provided for individuals personal use and educational use only.
+
 PyQt5:
 
 License: GPL v3 (General Public License version 3)
