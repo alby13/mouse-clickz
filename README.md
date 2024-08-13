@@ -31,6 +31,7 @@ pynput
 # Running it:
 
 Clone the repository using git clone https://github.com/alby13/mouse-clickz.git
+PyQT5 requires Python 3.10+
 Install the required packages using pip install -r requirements.txt
 Run the program using python mouse_clickz.py
 
@@ -52,8 +53,6 @@ Click on the "Hide" button to hide the graphical user interface
 Click on the "Quit" button to close the program and save the click counts
 
 # License:
-
-This program is provided for individuals personal use and educational use only.
 
 PyQt5:
 
