@@ -10,28 +10,22 @@ A simple python program that tracks and counts mouse clicks, scrolls, and moveme
 The program is designed to keep track of the mouse and save a json file in the directory of the program so it can load all of the tracked stats and keep a running timer of how long the program has ran for alltogether.
 
 # Features:
-Tracks and counts mouse clicks, scrolls, and movements
-
-Displays current click counts in a graphical user interface
-
-Saves click counts to a counter file every hour and when the program is closed
-
-Optional Windows version Provides a system tray icon for easy access to the program
+- Tracks and counts mouse clicks, scrolls, and movements
+- Displays current click counts in a graphical user interface
+- Saves click counts to a counter file every hour and when the program is closed
+- Optional Windows version Provides a system tray icon for easy access to the program
 
 
 # Requirements:
 
-Python 3.x
-
-PyQt5
-
-pynput
+- Python 3.10+
+- PyQt5
+- pynput
 
 
 # Running it:
 
 Clone the repository using git clone https://github.com/alby13/mouse-clickz.git
-PyQT5 requires Python 3.10+
 Install the required packages using pip install -r requirements.txt
 Run the program using python mouse_clickz.py
 
@@ -72,5 +66,4 @@ Author:
 alby13
 
 Version:
-there's a version?
-i am providing a complete and tested working program
+Official Release 1
